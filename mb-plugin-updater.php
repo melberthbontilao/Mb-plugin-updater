@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Plugin updater
+Plugin Name: MB Plugin updater
 Plugin URI: https://github.com/melberthbontilao/Plugin-updater
-Description: This is test plugin.
+Description: This is test plugin to check if plugin update is working.
 Author: MelberthB
 Version: 1.0
 Author URI: https://github.com/melberthbontilao/Plugin-updater
