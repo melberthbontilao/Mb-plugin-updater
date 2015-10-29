@@ -6,6 +6,7 @@ Description: This is test plugin.
 Author: MelberthB
 Version: 1.0
 Author URI: https://github.com/melberthbontilao/Plugin-updater
+License: GPLv2 or later
 */
 
 add_action('plugins_loaded', 'plugin_updater_init', 0);
