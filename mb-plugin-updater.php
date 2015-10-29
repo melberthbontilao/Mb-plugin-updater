@@ -4,7 +4,7 @@ Plugin Name: MB Plugin updater
 Plugin URI: https://github.com/melberthbontilao/Plugin-updater
 Description: This is test plugin to check if plugin update is working.
 Author: MelberthB
-Version: 1.2
+Version: 1.3
 Author URI: https://github.com/melberthbontilao/Plugin-updater
 License: GPLv2 or later
 */
