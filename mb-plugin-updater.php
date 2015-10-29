@@ -14,7 +14,6 @@ add_action('plugins_loaded', 'plugin_updater_init', 0);
 include_once('LinksynceparcelPluginUpdater.php');
 function plugin_updater_init() {
 	if ( is_admin() ) {
-		$updater_plugin = new LinksynceparcelPluginUpdater();
-		$updater_plugin->initPluginUpdater( __FILE__, 'melberthbontilao', 'Mb-plugin-updater', '9c19becb8b7d75f3f27d78c0646978ce311ddc18' );
+		$updater_plugin = new LinksynceparcelPluginUpdater( __FILE__, 'melberthbontilao', 'Mb-plugin-updater', '9c19becb8b7d75f3f27d78c0646978ce311ddc18' );
 	}
 }
