@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: MB Plugin updater
-Plugin URI: https://github.com/melberthbontilao/Plugin-updater
+Plugin URI: https://github.com/melberthbontilao/Mb-plugin-updater
 Description: This is test plugin to check if plugin update is working.
 Author: MelberthB
 Version: 1.3
-Author URI: https://github.com/melberthbontilao/Plugin-updater
+Author URI: https://github.com/melberthbontilao/Mb-plugin-updater
 License: GPLv2 or later
 */
 
